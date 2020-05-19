@@ -10,3 +10,4 @@ Here's a link for APK file https://github.com/tufanakkan/WRoute/blob/master/app-
 
 This program targeted API 26 (Android 8.0) and there's a problem with higher versions of Android currently.
 
+![An example of how it works](https://giphy.com/gifs/XCygmrYiU1Q9ctwDSt/html5)
